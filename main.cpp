@@ -1,5 +1,5 @@
 //------------------------------
-//at least it is work
+//at least it work
 //------------------------------
 #include<glad/glad.h>
 #include<GLFW/glfw3.h>
